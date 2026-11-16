@@ -1,6 +1,6 @@
 # Geoly
 
-Projeto acadêmico desenvolvido em colaboração e apresentado em evento de tecnologia. Recebeu **1º lugar**.
+Projeto acadêmico desenvolvido em colaboração e apresentado em evento de tecnologia Inova Comércio Ponta Grossa 2026 . Recebeu **1º lugar**.
 
 O Geoly é um protótipo web para explorar oportunidades de localização comercial em bairros de Ponta Grossa. A interface mostra um mapa interativo e compara setores de negócio com indicadores demonstrativos.
 
